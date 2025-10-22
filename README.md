@@ -1,7 +1,7 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name: Supraja B    </h3>
 <h3>Register Number: 2305002026          </h3>
-<H3>Aim:</H3>
+<H1>Aim:</H1>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 </p>
